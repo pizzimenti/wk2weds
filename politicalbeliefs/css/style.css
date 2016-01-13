@@ -4,6 +4,37 @@
 
 #trump {
   display:none;
-  background-color: FireBrick;
+  color: Pink;
+}
+#cruz {
+  display:none;
+  color: FireBrick;
+}
+#sanders {
+  display:none;
+  color: LightBlue;
+}
+#clinton {
+  display:none;
+  color: DarkBlue;
+}
 
+#chooseAnother {
+  display: none;
+}
+
+.FireBrick {
+  background-color: FireBrick;
+}
+
+.Pink {
+  background-color: Pink;
+}
+
+.DarkBlue {
+  background-color: DarkBlue;
+}
+
+.LightBlue {
+  background-color: LightBlue;
 }
