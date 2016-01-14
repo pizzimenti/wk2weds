@@ -1,0 +1,24 @@
+Is the Github documentation - commits and README - thorough and descriptive?
+
+There seemed to be limited commits on pages. You may want to try to commit more regularly so your commit messages can be more precise and you save more as you go.
+
+Is the code easy to read (good indentation, spacing, naming)?
+Please search #indent in your political beliefs files to see indentation corrections.
+
+
+Were branching and looping used effectively?
+The looping looked great!
+
+
+
+Is the web page(s) styled using Bootstrap and CSS?
+Yes
+
+
+
+Is the site user-friendly?
+
+Mostly! Bernie Sanders congrats page was a bit hard to read.
+
+
+Do you have any additional constructive criticism or positive feedback to share?
