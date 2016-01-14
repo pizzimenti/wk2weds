@@ -5,9 +5,10 @@ $(function() {
 
     $(".candidates").hide();
     if (candidate === "trump") {
-    $('#trump').show();
-    $('body').removeClass();
-    $('body').addClass("FireBrick");
+      $('#trump').show();
+      $('body').removeClass();
+      $('body').addClass("FireBrick");
+      // Above is an example of how you should be indenting these. #indent
     } else if (candidate === "sanders") {
     $('#sanders').show();
     $('body').removeClass();
